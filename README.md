@@ -4,7 +4,7 @@ Extensive **structural design-engineering experience in the oil & gas industry**
 **Ph.D. Dissertation**  
 Development of a Survival Based Framework for Bridge Deterioration Modeling with Large-scale Application to the North Carolina Bridge Management System 
 
-Advisor: [Matthew J. Whelan, Ph.D.](https://coefs.uncc.edu/mwhelan3/)  
+Advisor: [Matthew J. Whelan, PhD](https://coefs.uncc.edu/mwhelan3/)  
 [Research team](https://coefs.uncc.edu/mwhelan3/research-team/) at the University of North Carolina at Charlotte  
 
 
