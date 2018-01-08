@@ -13,5 +13,5 @@ Fatigue Failure and Cracking in High Mast Poles
 [Civil & Environmental Engineering at the University of Houston](http://www.cive.uh.edu/)
 
 
-**Industry**
+**Industry**  
 [Indian Oil](https://www.iocl.com/aboutus/profile.aspx), India's largest commercial enterprise
