@@ -14,4 +14,4 @@ Fatigue Failure and Cracking in High Mast Poles
 
 
 **Industry, Engineering Services Manager**  
-[Indian Oil](https://www.iocl.com/aboutus/profile.aspx), India's largest commercial enterprise
+[IndianOil](https://www.iocl.com/aboutus/profile.aspx), India's largest commercial enterprise
